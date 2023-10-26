@@ -1,0 +1,72 @@
+#image{
+    max-width: 100%;
+        display: block;
+        height: auto;
+        margin: 0 auto;
+       }
+    
+body {
+        font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 1.5rem;
+        line-height: 1.5;
+        text-align: center;
+        color: #333;
+        margin: 0;
+    }
+    
+h1 {
+        font-size: 2rem;
+        margin-bottom: 0;
+        font-style: oblique;
+    }
+p{
+        font-size: large;
+        
+    }
+ #main {
+        margin: 30px 8px;
+        padding: 15px;
+        border-radius: 5px;
+        background: #eee;
+    }
+ #img-div {
+        background: white;
+        padding: 10px;
+       
+       
+    }
+    
+#img-caption {
+        margin: 14px 0 5px 0;
+        display: block;
+        font-style: oblique;
+        font-size: medium;
+    
+    }
+    
+
+        
+    
+#header {
+        margin: 50px 0;
+        text-align: center;
+        font-size: larger;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
+#tribute-info{
+        text-align: auto;
+        display: block;
+        max-width: 550px;
+        margin: 0 auto 50px auto;
+        line-height: 1.6
+        
+    }
+    
+    
+li{
+        font-size: medium;  
+        text-align: left; 
+    }
+    
